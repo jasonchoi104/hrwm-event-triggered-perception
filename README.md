@@ -18,7 +18,7 @@ This demonstrates a simple form of **demand-driven perception**, as an alternati
 
 ## Core Claim
 
-> Event-triggered perception routing can maintain safety comparable to full perception while reducing scene-level compute by aligning sensing frequency with actual risk exposure duration.
+> Event-triggered perception routing can maintain safety comparable to full perception while reducing scene-level compute by activating higher-cost perception only when local risk persists.
 
 ---
 
